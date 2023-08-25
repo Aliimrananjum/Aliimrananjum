@@ -18,7 +18,7 @@
 
 <!-- Contact -->
 <p>
-  📧 If you would like to get in touch, you can reach me at <a href="mailto:imran.jobb@gmail.com">imran.jobb@gmail.com</a>. I am always open to new opportunities and connections!
+  📧 If you would like to get in touch, you can reach me at <a href="mailto:ali@mjevo.no">ali@mjevo.no</a>. I am always open to new opportunities and connections!
 </p>
 
 <!-- Digital resume -->
